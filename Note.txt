@@ -1,0 +1,8 @@
+Main 1.0.0 
+    This sprint 1.0.1 
+        Features branch > Push
+        
+        Bug fix branch
+    This sprint 1.0.2 
+        Features branch 
+        Bug fix branch
